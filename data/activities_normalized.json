@@ -37308,5 +37308,18 @@
     "start_date_local": "2026-03-27T08:09:24Z",
     "type": "RockClimbing",
     "year": 2026
+  },
+  {
+    "date": "2026-03-27",
+    "distance": 6427.9,
+    "elevation_gain": 48.5,
+    "id": "17880664949",
+    "moving_time": 2370.0,
+    "name": "3.75mi Easy Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-27T15:34:08Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
