@@ -37536,11 +37536,24 @@
     "elevation_gain": 24.8,
     "id": "18172927789",
     "moving_time": 4564.0,
-    "name": "Morning Run",
+    "name": "Pre-Regatta Run",
     "raw_activity_type": "Run",
     "raw_type": "Run",
     "start_date_local": "2026-04-19T08:41:19Z",
     "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-20",
+    "distance": 569.2,
+    "elevation_gain": 0.0,
+    "id": "18183780005",
+    "moving_time": 637.0,
+    "name": "Morning Rock Climb",
+    "raw_activity_type": "RockClimbing",
+    "raw_type": "RockClimbing",
+    "start_date_local": "2026-04-20T07:51:12Z",
+    "type": "RockClimbing",
     "year": 2026
   }
 ]
