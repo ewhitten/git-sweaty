@@ -37607,5 +37607,18 @@
     "start_date_local": "2026-04-24T07:44:15Z",
     "type": "RockClimbing",
     "year": 2026
+  },
+  {
+    "date": "2026-04-24",
+    "distance": 6451.7,
+    "elevation_gain": 50.8,
+    "id": "18243564751",
+    "moving_time": 2357.0,
+    "name": "Afternoon Recovery Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-24T16:17:03Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

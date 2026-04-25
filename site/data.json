@@ -26036,6 +26036,15 @@
       "type": "RockClimbing",
       "url": "https://www.strava.com/activities/18238306837",
       "year": 2026
+    },
+    {
+      "date": "2026-04-24",
+      "hour": 16,
+      "name": "Afternoon Recovery Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18243564751",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -50645,6 +50654,15 @@
           "distance": 4993.6,
           "elevation_gain": 50.4,
           "moving_time": 1821.0
+        },
+        "2026-04-24": {
+          "activity_ids": [
+            "18243564751"
+          ],
+          "count": 1,
+          "distance": 6451.7,
+          "elevation_gain": 50.8,
+          "moving_time": 2357.0
         }
       },
       "StairStepper": {
@@ -51037,7 +51055,7 @@
       }
     }
   },
-  "generated_at": "2026-04-24T15:33:41.792437+00:00",
+  "generated_at": "2026-04-25T15:21:07.811602+00:00",
   "other_bucket": "OtherSports",
   "repo": "ewhitten/git-sweaty",
   "source": "strava",
