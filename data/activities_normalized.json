@@ -37620,5 +37620,18 @@
     "start_date_local": "2026-04-24T16:17:03Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-27",
+    "distance": 7129.2,
+    "elevation_gain": 46.7,
+    "id": "18278172837",
+    "moving_time": 2627.0,
+    "name": "6 days until Broad Street!",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-27T08:01:32Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
