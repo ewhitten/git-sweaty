@@ -26081,6 +26081,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18332261414",
       "year": 2026
+    },
+    {
+      "date": "2026-05-03",
+      "hour": 7,
+      "name": "Broad Street Run 2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18360934115",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -50726,6 +50735,15 @@
           "distance": 3189.4,
           "elevation_gain": 28.5,
           "moving_time": 1077.0
+        },
+        "2026-05-03": {
+          "activity_ids": [
+            "18360934115"
+          ],
+          "count": 1,
+          "distance": 16194.7,
+          "elevation_gain": 35.7,
+          "moving_time": 5261.0
         }
       },
       "StairStepper": {
@@ -51127,7 +51145,7 @@
       }
     }
   },
-  "generated_at": "2026-05-02T15:22:32.650062+00:00",
+  "generated_at": "2026-05-03T15:22:02.958448+00:00",
   "other_bucket": "OtherSports",
   "repo": "ewhitten/git-sweaty",
   "source": "strava",

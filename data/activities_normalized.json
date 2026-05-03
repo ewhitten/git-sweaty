@@ -37672,5 +37672,18 @@
     "start_date_local": "2026-05-01T08:25:09Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-03",
+    "distance": 16194.7,
+    "elevation_gain": 35.7,
+    "id": "18360934115",
+    "moving_time": 5261.0,
+    "name": "Broad Street Run 2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-03T07:49:35Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
