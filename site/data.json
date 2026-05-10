@@ -50813,7 +50813,7 @@
             "18440207981"
           ],
           "count": 1,
-          "distance": 4883.0,
+          "distance": 5043.7,
           "elevation_gain": 42.5,
           "moving_time": 1688.0
         }
@@ -51235,7 +51235,7 @@
       }
     }
   },
-  "generated_at": "2026-05-09T15:26:21.901147+00:00",
+  "generated_at": "2026-05-10T15:27:04.381664+00:00",
   "other_bucket": "OtherSports",
   "repo": "ewhitten/git-sweaty",
   "source": "strava",
