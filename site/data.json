@@ -26180,6 +26180,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18554486032",
       "year": 2026
+    },
+    {
+      "date": "2026-05-19",
+      "hour": 5,
+      "name": "5:40 Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18566357541",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -50275,6 +50284,15 @@
           "distance": 16478.5,
           "elevation_gain": 166.0,
           "moving_time": 2596.0
+        },
+        "2026-05-19": {
+          "activity_ids": [
+            "18566357541"
+          ],
+          "count": 1,
+          "distance": 36642.7,
+          "elevation_gain": 560.0,
+          "moving_time": 5880.0
         }
       },
       "RockClimbing": {
@@ -51325,7 +51343,7 @@
       }
     }
   },
-  "generated_at": "2026-05-18T16:12:53.907398+00:00",
+  "generated_at": "2026-05-19T16:11:01.353556+00:00",
   "other_bucket": "OtherSports",
   "repo": "ewhitten/git-sweaty",
   "source": "strava",
