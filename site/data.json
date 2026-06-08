@@ -26297,6 +26297,15 @@
       "type": "RockClimbing",
       "url": "https://www.strava.com/activities/18796618093",
       "year": 2026
+    },
+    {
+      "date": "2026-06-08",
+      "hour": 8,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18836169404",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -51106,6 +51115,15 @@
           "distance": 4604.9,
           "elevation_gain": 35.1,
           "moving_time": 1485.0
+        },
+        "2026-06-08": {
+          "activity_ids": [
+            "18836169404"
+          ],
+          "count": 1,
+          "distance": 4811.8,
+          "elevation_gain": 37.3,
+          "moving_time": 1584.0
         }
       },
       "StairStepper": {
@@ -51561,7 +51579,7 @@
       }
     }
   },
-  "generated_at": "2026-06-07T15:36:30.899107+00:00",
+  "generated_at": "2026-06-08T16:27:52.375198+00:00",
   "other_bucket": "OtherSports",
   "repo": "ewhitten/git-sweaty",
   "source": "strava",

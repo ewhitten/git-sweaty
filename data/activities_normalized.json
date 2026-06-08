@@ -37984,5 +37984,18 @@
     "start_date_local": "2026-06-05T07:56:36Z",
     "type": "RockClimbing",
     "year": 2026
+  },
+  {
+    "date": "2026-06-08",
+    "distance": 4811.8,
+    "elevation_gain": 37.3,
+    "id": "18836169404",
+    "moving_time": 1584.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-08T08:13:05Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
