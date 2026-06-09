@@ -26306,6 +26306,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18836169404",
       "year": 2026
+    },
+    {
+      "date": "2026-06-09",
+      "hour": 8,
+      "name": "Morning Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18850609436",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -51335,6 +51344,15 @@
           "distance": 3552.2,
           "elevation_gain": 30.5,
           "moving_time": 2300.0
+        },
+        "2026-06-09": {
+          "activity_ids": [
+            "18850609436"
+          ],
+          "count": 1,
+          "distance": 4094.9,
+          "elevation_gain": 47.8,
+          "moving_time": 2617.0
         }
       },
       "WeightTraining": {
@@ -51579,7 +51597,7 @@
       }
     }
   },
-  "generated_at": "2026-06-08T16:27:52.375198+00:00",
+  "generated_at": "2026-06-09T16:04:54.292441+00:00",
   "other_bucket": "OtherSports",
   "repo": "ewhitten/git-sweaty",
   "source": "strava",
