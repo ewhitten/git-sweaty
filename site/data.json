@@ -26342,6 +26342,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18890751393",
       "year": 2026
+    },
+    {
+      "date": "2026-06-15",
+      "hour": 18,
+      "name": "Chill Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18936407620",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-16",
+      "hour": 7,
+      "name": "Morning Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18942847751",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -50466,6 +50484,15 @@
           "distance": 36642.7,
           "elevation_gain": 560.0,
           "moving_time": 5880.0
+        },
+        "2026-06-15": {
+          "activity_ids": [
+            "18936407620"
+          ],
+          "count": 1,
+          "distance": 22889.2,
+          "elevation_gain": 214.0,
+          "moving_time": 4454.0
         }
       },
       "RockClimbing": {
@@ -51398,6 +51425,15 @@
           "distance": 4094.9,
           "elevation_gain": 47.8,
           "moving_time": 2617.0
+        },
+        "2026-06-16": {
+          "activity_ids": [
+            "18942847751"
+          ],
+          "count": 1,
+          "distance": 4072.0,
+          "elevation_gain": 35.2,
+          "moving_time": 2765.0
         }
       },
       "WeightTraining": {
@@ -51651,7 +51687,7 @@
       }
     }
   },
-  "generated_at": "2026-06-15T16:44:28.782292+00:00",
+  "generated_at": "2026-06-16T16:38:19.893679+00:00",
   "other_bucket": "OtherSports",
   "repo": "ewhitten/git-sweaty",
   "source": "strava",
