@@ -38101,5 +38101,18 @@
     "start_date_local": "2026-06-19T08:48:32Z",
     "type": "RockClimbing",
     "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 53291.7,
+    "elevation_gain": 810.0,
+    "id": "19011791613",
+    "moving_time": 8969.0,
+    "name": "Father\u2019s Day Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-21T08:12:58Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

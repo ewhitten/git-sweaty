@@ -26378,6 +26378,15 @@
       "type": "RockClimbing",
       "url": "https://www.strava.com/activities/18984686281",
       "year": 2026
+    },
+    {
+      "date": "2026-06-21",
+      "hour": 8,
+      "name": "Father\u2019s Day Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19011791613",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -50511,6 +50520,15 @@
           "distance": 22889.2,
           "elevation_gain": 214.0,
           "moving_time": 4454.0
+        },
+        "2026-06-21": {
+          "activity_ids": [
+            "19011791613"
+          ],
+          "count": 1,
+          "distance": 53291.7,
+          "elevation_gain": 810.0,
+          "moving_time": 8969.0
         }
       },
       "RockClimbing": {
@@ -51723,7 +51741,7 @@
       }
     }
   },
-  "generated_at": "2026-06-20T15:40:03.453756+00:00",
+  "generated_at": "2026-06-21T15:40:55.103836+00:00",
   "other_bucket": "OtherSports",
   "repo": "ewhitten/git-sweaty",
   "source": "strava",
