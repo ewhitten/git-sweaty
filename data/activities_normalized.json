@@ -38140,5 +38140,31 @@
     "start_date_local": "2026-06-27T14:47:00Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-06-29",
+    "distance": 12492.7,
+    "elevation_gain": 103.0,
+    "id": "19117393315",
+    "moving_time": 2392.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-29T19:54:34Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-30",
+    "distance": 171.7,
+    "elevation_gain": 0.0,
+    "id": "19123186378",
+    "moving_time": 145.0,
+    "name": "Morning Rock Climb",
+    "raw_activity_type": "RockClimbing",
+    "raw_type": "RockClimbing",
+    "start_date_local": "2026-06-30T08:02:19Z",
+    "type": "RockClimbing",
+    "year": 2026
   }
 ]
