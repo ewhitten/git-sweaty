@@ -26468,6 +26468,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19215149548",
       "year": 2026
+    },
+    {
+      "date": "2026-07-08",
+      "hour": 13,
+      "name": "sleeping bear Dune climb",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/19233250668",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -50563,6 +50572,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 4379.0
+        },
+        "2026-07-08": {
+          "activity_ids": [
+            "19233250668"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 6839.0
         }
       },
       "Ride": {
@@ -51903,7 +51921,7 @@
       }
     }
   },
-  "generated_at": "2026-07-08T16:44:19.475015+00:00",
+  "generated_at": "2026-07-09T17:24:32.437266+00:00",
   "other_bucket": "OtherSports",
   "repo": "ewhitten/git-sweaty",
   "source": "strava",
