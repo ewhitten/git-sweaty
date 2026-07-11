@@ -38257,5 +38257,44 @@
     "start_date_local": "2026-07-10T11:29:55Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-07-10",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19260055933",
+    "moving_time": 5159.0,
+    "name": "Afternoon Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-07-10T14:21:00Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-10",
+    "distance": 37616.0,
+    "elevation_gain": 90.9,
+    "id": "19260223429",
+    "moving_time": 6389.0,
+    "name": "Afternoon E-Bike Ride",
+    "raw_activity_type": "EBikeRide",
+    "raw_type": "EBikeRide",
+    "start_date_local": "2026-07-10T14:14:35Z",
+    "type": "EBikeRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-10",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19260439563",
+    "moving_time": 779.0,
+    "name": "Afternoon Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-07-10T16:01:00Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
