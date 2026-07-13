@@ -26513,6 +26513,15 @@
       "type": "Workout",
       "url": "https://www.strava.com/activities/19260439563",
       "year": 2026
+    },
+    {
+      "date": "2026-07-13",
+      "hour": 8,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19294071285",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -51486,6 +51495,15 @@
           "distance": 4825.0,
           "elevation_gain": 22.6,
           "moving_time": 1638.0
+        },
+        "2026-07-13": {
+          "activity_ids": [
+            "19294071285"
+          ],
+          "count": 1,
+          "distance": 4910.2,
+          "elevation_gain": 41.2,
+          "moving_time": 1787.0
         }
       },
       "StairStepper": {
@@ -51987,7 +52005,7 @@
       }
     }
   },
-  "generated_at": "2026-07-12T16:03:56.370703+00:00",
+  "generated_at": "2026-07-13T17:19:29.421543+00:00",
   "other_bucket": "OtherSports",
   "repo": "ewhitten/git-sweaty",
   "source": "strava",
