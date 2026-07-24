@@ -26603,6 +26603,24 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/19424718345",
       "year": 2026
+    },
+    {
+      "date": "2026-07-23",
+      "hour": 15,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19436959177",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-24",
+      "hour": 8,
+      "name": "Morning Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/19445449094",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -51594,6 +51612,15 @@
           "distance": 4910.2,
           "elevation_gain": 41.2,
           "moving_time": 1787.0
+        },
+        "2026-07-23": {
+          "activity_ids": [
+            "19436959177"
+          ],
+          "count": 1,
+          "distance": 4391.3,
+          "elevation_gain": 41.0,
+          "moving_time": 1500.0
         }
       },
       "StairStepper": {
@@ -52032,6 +52059,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3048.0
+        },
+        "2026-07-24": {
+          "activity_ids": [
+            "19445449094"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3239.0
         }
       },
       "Workout": {
@@ -52167,7 +52203,7 @@
       }
     }
   },
-  "generated_at": "2026-07-23T16:40:26.987785+00:00",
+  "generated_at": "2026-07-24T16:47:14.973507+00:00",
   "other_bucket": "OtherSports",
   "repo": "ewhitten/git-sweaty",
   "source": "strava",

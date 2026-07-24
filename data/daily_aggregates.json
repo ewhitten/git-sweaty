@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T16:40:26.944833+00:00",
+  "generated_at": "2026-07-24T16:47:14.934976+00:00",
   "years": {
     "2012": {
       "Ride": {
@@ -24989,6 +24989,15 @@
           "distance": 4910.2,
           "elevation_gain": 41.2,
           "moving_time": 1787.0
+        },
+        "2026-07-23": {
+          "activity_ids": [
+            "19436959177"
+          ],
+          "count": 1,
+          "distance": 4391.3,
+          "elevation_gain": 41.0,
+          "moving_time": 1500.0
         }
       },
       "StairStepper": {
@@ -25427,6 +25436,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3048.0
+        },
+        "2026-07-24": {
+          "activity_ids": [
+            "19445449094"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3239.0
         }
       },
       "Workout": {
