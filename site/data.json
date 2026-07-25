@@ -26621,6 +26621,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/19445449094",
       "year": 2026
+    },
+    {
+      "date": "2026-07-25",
+      "hour": 9,
+      "name": "Morning Rock Climb",
+      "subtype": "RockClimbing",
+      "type": "RockClimbing",
+      "url": "https://www.strava.com/activities/19460430667",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -51074,6 +51083,15 @@
           "distance": 733.9,
           "elevation_gain": 0.0,
           "moving_time": 466.0
+        },
+        "2026-07-25": {
+          "activity_ids": [
+            "19460430667"
+          ],
+          "count": 1,
+          "distance": 448.6,
+          "elevation_gain": 0.0,
+          "moving_time": 368.0
         }
       },
       "Rowing": {
@@ -52203,7 +52221,7 @@
       }
     }
   },
-  "generated_at": "2026-07-24T16:47:14.973507+00:00",
+  "generated_at": "2026-07-25T16:08:55.603361+00:00",
   "other_bucket": "OtherSports",
   "repo": "ewhitten/git-sweaty",
   "source": "strava",
