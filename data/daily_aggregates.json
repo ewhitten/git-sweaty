@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T16:45:13.408148+00:00",
+  "generated_at": "2026-07-29T16:26:11.302716+00:00",
   "years": {
     "2012": {
       "Ride": {
@@ -24478,6 +24478,15 @@
           "distance": 635.8,
           "elevation_gain": 2.4,
           "moving_time": 693.0
+        },
+        "2026-07-29": {
+          "activity_ids": [
+            "19514532527"
+          ],
+          "count": 1,
+          "distance": 369.0,
+          "elevation_gain": 2.2,
+          "moving_time": 1195.0
         }
       },
       "Rowing": {
@@ -25025,6 +25034,15 @@
           "distance": 4391.3,
           "elevation_gain": 41.0,
           "moving_time": 1500.0
+        },
+        "2026-07-28": {
+          "activity_ids": [
+            "19507613397"
+          ],
+          "count": 1,
+          "distance": 3555.6,
+          "elevation_gain": 28.7,
+          "moving_time": 1313.0
         }
       },
       "StairStepper": {

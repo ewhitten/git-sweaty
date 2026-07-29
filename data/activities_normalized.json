@@ -38504,5 +38504,31 @@
     "start_date_local": "2026-07-28T07:53:55Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-07-28",
+    "distance": 3555.6,
+    "elevation_gain": 28.7,
+    "id": "19507613397",
+    "moving_time": 1313.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-28T19:13:59Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-29",
+    "distance": 369.0,
+    "elevation_gain": 2.2,
+    "id": "19514532527",
+    "moving_time": 1195.0,
+    "name": "Morning Rock Climb",
+    "raw_activity_type": "RockClimbing",
+    "raw_type": "RockClimbing",
+    "start_date_local": "2026-07-29T07:40:31Z",
+    "type": "RockClimbing",
+    "year": 2026
   }
 ]
