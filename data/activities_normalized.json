@@ -38569,5 +38569,18 @@
     "start_date_local": "2026-08-05T10:29:00Z",
     "type": "Surfing",
     "year": 2026
+  },
+  {
+    "date": "2026-08-08",
+    "distance": 1338.0,
+    "elevation_gain": 0.0,
+    "id": "19657993438",
+    "moving_time": 1212.0,
+    "name": "Afternoon Stand Up Paddling",
+    "raw_activity_type": "StandUpPaddling",
+    "raw_type": "StandUpPaddling",
+    "start_date_local": "2026-08-08T13:08:16Z",
+    "type": "StandUpPaddling",
+    "year": 2026
   }
 ]
