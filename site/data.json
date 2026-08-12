@@ -26720,6 +26720,15 @@
       "type": "StandUpPaddling",
       "url": "https://www.strava.com/activities/19673638461",
       "year": 2026
+    },
+    {
+      "date": "2026-08-09",
+      "hour": 15,
+      "name": "Afternoon Stand Up Paddling",
+      "subtype": "StandUpPaddling",
+      "type": "StandUpPaddling",
+      "url": "https://www.strava.com/activities/19702557086",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -51799,12 +51808,13 @@
         },
         "2026-08-09": {
           "activity_ids": [
-            "19673638461"
+            "19673638461",
+            "19702557086"
           ],
-          "count": 1,
-          "distance": 0.0,
+          "count": 2,
+          "distance": 1405.4,
           "elevation_gain": 0.0,
-          "moving_time": 2159.0
+          "moving_time": 3253.0
         }
       },
       "Surfing": {
@@ -52405,7 +52415,7 @@
       }
     }
   },
-  "generated_at": "2026-08-11T16:04:22.060215+00:00",
+  "generated_at": "2026-08-12T16:02:57.674122+00:00",
   "other_bucket": "OtherSports",
   "repo": "ewhitten/git-sweaty",
   "source": "strava",
