@@ -26783,6 +26783,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19768339574",
       "year": 2026
+    },
+    {
+      "date": "2026-08-17",
+      "hour": 21,
+      "name": "Night Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/19787610358",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -52388,6 +52397,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 4398.0
+        },
+        "2026-08-17": {
+          "activity_ids": [
+            "19787610358"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2554.0
         }
       },
       "Workout": {
@@ -52523,7 +52541,7 @@
       }
     }
   },
-  "generated_at": "2026-08-17T15:31:12.717161+00:00",
+  "generated_at": "2026-08-18T15:37:38.187584+00:00",
   "other_bucket": "OtherSports",
   "repo": "ewhitten/git-sweaty",
   "source": "strava",
