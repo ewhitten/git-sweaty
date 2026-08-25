@@ -26855,6 +26855,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19877614476",
       "year": 2026
+    },
+    {
+      "date": "2026-08-24",
+      "hour": 19,
+      "name": "Evening Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/19885543405",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-25",
+      "hour": 7,
+      "name": "Morning Rock Climb",
+      "subtype": "RockClimbing",
+      "type": "RockClimbing",
+      "url": "https://www.strava.com/activities/19892247068",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -51371,6 +51389,15 @@
           "distance": 162.9,
           "elevation_gain": 0.0,
           "moving_time": 1195.0
+        },
+        "2026-08-25": {
+          "activity_ids": [
+            "19892247068"
+          ],
+          "count": 1,
+          "distance": 943.6,
+          "elevation_gain": 0.0,
+          "moving_time": 665.0
         }
       },
       "Rowing": {
@@ -52278,6 +52305,15 @@
           "distance": 2741.1,
           "elevation_gain": 30.8,
           "moving_time": 2072.0
+        },
+        "2026-08-24": {
+          "activity_ids": [
+            "19885543405"
+          ],
+          "count": 1,
+          "distance": 3401.5,
+          "elevation_gain": 9.7,
+          "moving_time": 2420.0
         }
       },
       "WeightTraining": {
@@ -52667,7 +52703,7 @@
       }
     }
   },
-  "generated_at": "2026-08-24T15:46:09.867351+00:00",
+  "generated_at": "2026-08-25T15:50:28.090700+00:00",
   "other_bucket": "OtherSports",
   "repo": "ewhitten/git-sweaty",
   "source": "strava",
