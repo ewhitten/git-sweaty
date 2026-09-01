@@ -38868,5 +38868,18 @@
     "start_date_local": "2026-08-30T10:02:43Z",
     "type": "RockClimbing",
     "year": 2026
+  },
+  {
+    "date": "2026-08-31",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19983520108",
+    "moving_time": 2704.0,
+    "name": "Evening Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-31T19:59:49Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
