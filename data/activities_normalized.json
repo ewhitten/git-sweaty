@@ -38920,5 +38920,31 @@
     "start_date_local": "2026-09-08T07:47:10Z",
     "type": "RockClimbing",
     "year": 2026
+  },
+  {
+    "date": "2026-09-08",
+    "distance": 25174.9,
+    "elevation_gain": 0.0,
+    "id": "20096716746",
+    "moving_time": 3600.0,
+    "name": "Baird +3",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-08T20:26:16Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-09",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20102298619",
+    "moving_time": 3410.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-09-09T07:51:40Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
