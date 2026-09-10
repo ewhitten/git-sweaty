@@ -38946,5 +38946,18 @@
     "start_date_local": "2026-09-09T07:51:40Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-09-10",
+    "distance": 31796.0,
+    "elevation_gain": 0.0,
+    "id": "20116388568",
+    "moving_time": 4500.0,
+    "name": "Galena -1",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-10T07:44:22Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
