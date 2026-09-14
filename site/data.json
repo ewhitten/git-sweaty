@@ -26999,6 +26999,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/20160343694",
       "year": 2026
+    },
+    {
+      "date": "2026-09-14",
+      "hour": 7,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20170460487",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -52206,6 +52215,15 @@
           "distance": 9699.8,
           "elevation_gain": 101.8,
           "moving_time": 3339.0
+        },
+        "2026-09-14": {
+          "activity_ids": [
+            "20170460487"
+          ],
+          "count": 1,
+          "distance": 13049.4,
+          "elevation_gain": 108.0,
+          "moving_time": 4887.0
         }
       },
       "StairStepper": {
@@ -52955,7 +52973,7 @@
       }
     }
   },
-  "generated_at": "2026-09-13T18:02:57.612639+00:00",
+  "generated_at": "2026-09-14T19:47:46.633796+00:00",
   "other_bucket": "OtherSports",
   "repo": "ewhitten/git-sweaty",
   "source": "strava",
