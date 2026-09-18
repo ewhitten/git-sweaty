@@ -39050,5 +39050,44 @@
     "start_date_local": "2026-09-16T10:02:43Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-09-17",
+    "distance": 30967.2,
+    "elevation_gain": 0.0,
+    "id": "20221597110",
+    "moving_time": 4320.0,
+    "name": "Tallac +2",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-09-17T20:18:10Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-18",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20226589318",
+    "moving_time": 2091.0,
+    "name": "Morning Rock Climb",
+    "raw_activity_type": "RockClimbing",
+    "raw_type": "RockClimbing",
+    "start_date_local": "2026-09-18T08:03:30Z",
+    "type": "RockClimbing",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-18",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20226853777",
+    "moving_time": 1135.0,
+    "name": "Morning Rock Climb",
+    "raw_activity_type": "RockClimbing",
+    "raw_type": "RockClimbing",
+    "start_date_local": "2026-09-18T08:41:22Z",
+    "type": "RockClimbing",
+    "year": 2026
   }
 ]
