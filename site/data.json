@@ -27080,6 +27080,24 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/20258257058",
       "year": 2026
+    },
+    {
+      "date": "2026-09-22",
+      "hour": 17,
+      "name": "Afternoon Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20289628458",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-23",
+      "hour": 8,
+      "name": "Morning Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20296947258",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -52684,6 +52702,24 @@
           "distance": 1576.3,
           "elevation_gain": 24.0,
           "moving_time": 977.0
+        },
+        "2026-09-22": {
+          "activity_ids": [
+            "20289628458"
+          ],
+          "count": 1,
+          "distance": 3038.1,
+          "elevation_gain": 53.0,
+          "moving_time": 2051.0
+        },
+        "2026-09-23": {
+          "activity_ids": [
+            "20296947258"
+          ],
+          "count": 1,
+          "distance": 3344.7,
+          "elevation_gain": 20.0,
+          "moving_time": 2286.0
         }
       },
       "WeightTraining": {
@@ -53109,7 +53145,7 @@
       }
     }
   },
-  "generated_at": "2026-09-22T18:41:50.740236+00:00",
+  "generated_at": "2026-09-23T18:56:52.876442+00:00",
   "other_bucket": "OtherSports",
   "repo": "ewhitten/git-sweaty",
   "source": "strava",
