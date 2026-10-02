@@ -27125,6 +27125,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20372004201",
       "year": 2026
+    },
+    {
+      "date": "2026-10-01",
+      "hour": 19,
+      "name": "Evening Rock Climb",
+      "subtype": "RockClimbing",
+      "type": "RockClimbing",
+      "url": "https://www.strava.com/activities/20413404619",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-01",
+      "hour": 19,
+      "name": "Evening Rock Climb",
+      "subtype": "RockClimbing",
+      "type": "RockClimbing",
+      "url": "https://www.strava.com/activities/20413665978",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -51741,6 +51759,16 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3226.0
+        },
+        "2026-10-01": {
+          "activity_ids": [
+            "20413404619",
+            "20413665978"
+          ],
+          "count": 2,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1847.0
         }
       },
       "Rowing": {
@@ -53199,7 +53227,7 @@
       }
     }
   },
-  "generated_at": "2026-10-01T20:16:03.607198+00:00",
+  "generated_at": "2026-10-02T19:51:01.886875+00:00",
   "other_bucket": "OtherSports",
   "repo": "ewhitten/git-sweaty",
   "source": "strava",
