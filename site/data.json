@@ -27143,6 +27143,15 @@
       "type": "RockClimbing",
       "url": "https://www.strava.com/activities/20413665978",
       "year": 2026
+    },
+    {
+      "date": "2026-10-03",
+      "hour": 9,
+      "name": "Morning Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20434385497",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -52793,6 +52802,15 @@
           "distance": 3344.7,
           "elevation_gain": 20.0,
           "moving_time": 2286.0
+        },
+        "2026-10-03": {
+          "activity_ids": [
+            "20434385497"
+          ],
+          "count": 1,
+          "distance": 4298.7,
+          "elevation_gain": 54.0,
+          "moving_time": 2651.0
         }
       },
       "WeightTraining": {
@@ -53227,7 +53245,7 @@
       }
     }
   },
-  "generated_at": "2026-10-02T19:51:01.886875+00:00",
+  "generated_at": "2026-10-03T18:37:51.700486+00:00",
   "other_bucket": "OtherSports",
   "repo": "ewhitten/git-sweaty",
   "source": "strava",
