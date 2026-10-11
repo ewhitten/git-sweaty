@@ -39297,5 +39297,44 @@
     "start_date_local": "2026-10-10T10:59:59Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-10-10",
+    "distance": 4779.3,
+    "elevation_gain": 44.0,
+    "id": "20532869147",
+    "moving_time": 1785.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-10T15:46:21Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-11",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20546166023",
+    "moving_time": 1637.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-11T14:09:19Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-11",
+    "distance": 12620.5,
+    "elevation_gain": 0.0,
+    "id": "20546167244",
+    "moving_time": 1800.0,
+    "name": "Pisgah +2",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-11T14:06:30Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

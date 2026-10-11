@@ -27206,6 +27206,33 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/20529897582",
       "year": 2026
+    },
+    {
+      "date": "2026-10-10",
+      "hour": 15,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20532869147",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-11",
+      "hour": 14,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20546166023",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-11",
+      "hour": 14,
+      "name": "Pisgah +2",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20546167244",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -51440,6 +51467,16 @@
           "distance": 30967.2,
           "elevation_gain": 0.0,
           "moving_time": 4320.0
+        },
+        "2026-10-11": {
+          "activity_ids": [
+            "20546166023",
+            "20546167244"
+          ],
+          "count": 2,
+          "distance": 12620.5,
+          "elevation_gain": 0.0,
+          "moving_time": 3437.0
         }
       },
       "RockClimbing": {
@@ -52505,6 +52542,15 @@
           "distance": 4132.6,
           "elevation_gain": 39.0,
           "moving_time": 1486.0
+        },
+        "2026-10-10": {
+          "activity_ids": [
+            "20532869147"
+          ],
+          "count": 1,
+          "distance": 4779.3,
+          "elevation_gain": 44.0,
+          "moving_time": 1785.0
         }
       },
       "StairStepper": {
@@ -53353,7 +53399,7 @@
       }
     }
   },
-  "generated_at": "2026-10-10T19:12:29.421600+00:00",
+  "generated_at": "2026-10-11T19:26:38.816212+00:00",
   "other_bucket": "OtherSports",
   "repo": "ewhitten/git-sweaty",
   "source": "strava",
