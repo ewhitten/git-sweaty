@@ -27296,6 +27296,15 @@
       "type": "RockClimbing",
       "url": "https://www.strava.com/activities/20660367595",
       "year": 2026
+    },
+    {
+      "date": "2026-10-21",
+      "hour": 11,
+      "name": "Lunch Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20676465284",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -52668,6 +52677,15 @@
           "distance": 4352.8,
           "elevation_gain": 38.0,
           "moving_time": 1478.0
+        },
+        "2026-10-21": {
+          "activity_ids": [
+            "20676465284"
+          ],
+          "count": 1,
+          "distance": 4976.0,
+          "elevation_gain": 42.0,
+          "moving_time": 1673.0
         }
       },
       "StairStepper": {
@@ -53525,7 +53543,7 @@
       }
     }
   },
-  "generated_at": "2026-10-20T19:06:29.797397+00:00",
+  "generated_at": "2026-10-21T19:12:19.932198+00:00",
   "other_bucket": "OtherSports",
   "repo": "ewhitten/git-sweaty",
   "source": "strava",
