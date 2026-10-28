@@ -39505,5 +39505,18 @@
     "start_date_local": "2026-10-27T10:54:58Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-28",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20764804086",
+    "moving_time": 2171.0,
+    "name": "Morning Rock Climb",
+    "raw_activity_type": "RockClimbing",
+    "raw_type": "RockClimbing",
+    "start_date_local": "2026-10-28T08:32:41Z",
+    "type": "RockClimbing",
+    "year": 2026
   }
 ]
