@@ -39544,5 +39544,31 @@
     "start_date_local": "2026-10-29T12:04:47Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-10-30",
+    "distance": 46779.2,
+    "elevation_gain": 652.0,
+    "id": "20795291659",
+    "moving_time": 7382.0,
+    "name": "Beautiful and Windy afternoon ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-30T13:32:57Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-31",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20804726255",
+    "moving_time": 3067.0,
+    "name": "Morning Rock Climb",
+    "raw_activity_type": "RockClimbing",
+    "raw_type": "RockClimbing",
+    "start_date_local": "2026-10-31T09:13:49Z",
+    "type": "RockClimbing",
+    "year": 2026
   }
 ]
