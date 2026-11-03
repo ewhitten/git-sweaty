@@ -27413,6 +27413,24 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/20829345704",
       "year": 2026
+    },
+    {
+      "date": "2026-11-02",
+      "hour": 18,
+      "name": "Evening Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20836203459",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-03",
+      "hour": 14,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20847517728",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -52875,6 +52893,15 @@
           "distance": 8060.6,
           "elevation_gain": 69.0,
           "moving_time": 2840.0
+        },
+        "2026-11-03": {
+          "activity_ids": [
+            "20847517728"
+          ],
+          "count": 1,
+          "distance": 5191.2,
+          "elevation_gain": 43.0,
+          "moving_time": 1883.0
         }
       },
       "StairStepper": {
@@ -53310,12 +53337,13 @@
         },
         "2026-11-02": {
           "activity_ids": [
-            "20829345704"
+            "20829345704",
+            "20836203459"
           ],
-          "count": 1,
-          "distance": 3665.6,
-          "elevation_gain": 43.0,
-          "moving_time": 2343.0
+          "count": 2,
+          "distance": 5219.6,
+          "elevation_gain": 61.0,
+          "moving_time": 3521.0
         }
       },
       "WeightTraining": {
@@ -53759,7 +53787,7 @@
       }
     }
   },
-  "generated_at": "2026-11-02T23:02:39.676882+00:00",
+  "generated_at": "2026-11-03T20:51:36.820428+00:00",
   "other_bucket": "OtherSports",
   "repo": "ewhitten/git-sweaty",
   "source": "strava",
