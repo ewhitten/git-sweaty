@@ -39843,5 +39843,18 @@
     "start_date_local": "2026-11-24T07:36:17Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-26",
+    "distance": 4761.5,
+    "elevation_gain": 43.0,
+    "id": "21131698536",
+    "moving_time": 1559.0,
+    "name": "YMCA Gobble Wobble",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-26T08:31:59Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
