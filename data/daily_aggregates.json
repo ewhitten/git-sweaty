@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T23:39:08.890882+00:00",
+  "generated_at": "2026-11-27T23:19:36.466035+00:00",
   "years": {
     "2012": {
       "Ride": {
@@ -25586,6 +25586,15 @@
           "distance": 4761.5,
           "elevation_gain": 43.0,
           "moving_time": 1559.0
+        },
+        "2026-11-27": {
+          "activity_ids": [
+            "21145477650"
+          ],
+          "count": 1,
+          "distance": 4961.5,
+          "elevation_gain": 53.0,
+          "moving_time": 1644.0
         }
       },
       "StairStepper": {

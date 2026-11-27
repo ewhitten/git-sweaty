@@ -27593,6 +27593,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/21131698536",
       "year": 2026
+    },
+    {
+      "date": "2026-11-27",
+      "hour": 12,
+      "name": "Lunch Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/21145477650",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -53181,6 +53190,15 @@
           "distance": 4761.5,
           "elevation_gain": 43.0,
           "moving_time": 1559.0
+        },
+        "2026-11-27": {
+          "activity_ids": [
+            "21145477650"
+          ],
+          "count": 1,
+          "distance": 4961.5,
+          "elevation_gain": 53.0,
+          "moving_time": 1644.0
         }
       },
       "StairStepper": {
@@ -54111,7 +54129,7 @@
       }
     }
   },
-  "generated_at": "2026-11-26T23:39:08.921639+00:00",
+  "generated_at": "2026-11-27T23:19:36.504540+00:00",
   "other_bucket": "OtherSports",
   "repo": "ewhitten/git-sweaty",
   "source": "strava",
